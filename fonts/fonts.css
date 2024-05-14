@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Realize';
+    src: url('/fonts/realize.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Havana';
+    src: url('/fonts/havana.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pecita';
+    src: url('/fonts/pecita.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Verbenac';
+    src: url('/fonts/verbenac.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Good Day';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Epsilon';
+    src: url('/fonts/epsilonCTT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Calibri';
+    src: url('/fonts/calibri.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fusion';
+    src: url('/fonts/fusion.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Verona';
+    src: url('/fonts/verona.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
