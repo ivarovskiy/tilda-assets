@@ -58,3 +58,63 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Benguiat Gothic';
+    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Canis Minor';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marske';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Metro Color';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Monoton Regular';
+    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Neoneon';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Neuropol';
+    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Square 721';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Zamenhof Inverse';
+    src: url('/fonts/good_day.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
