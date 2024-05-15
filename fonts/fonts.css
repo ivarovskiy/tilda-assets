@@ -60,61 +60,61 @@
 }
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/bebasNeueLight.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Benguiat Gothic';
-    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    src: url('/fonts/benguiatGothicCTT.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Canis Minor';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/canis_minor.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Marske';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/marske.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Metro Color';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/metroColor.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Monoton Regular';
-    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    src: url('/fonts/monotonRegular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Neoneon';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/neoneon.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Neuropol';
-    src: url('/fonts/openSansCondensed.ttf') format('truetype');
+    src: url('/fonts/neuropol.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Square 721';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/square721bd.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Zamenhof Inverse';
-    src: url('/fonts/good_day.otf') format('opentype');
+    src: url('/fonts/zamenhof_inverse.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
